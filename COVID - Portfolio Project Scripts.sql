@@ -1,3 +1,8 @@
+-- Data Exploartion project using covid data
+-- This is my first portfolio project on Github :D
+-- Technologies - SQL
+-- Softwares - Microsoft SSMS 
+-- Dataset Location - https://ourworldindata.org/covid-deaths
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
