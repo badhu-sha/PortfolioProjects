@@ -1,7 +1,6 @@
-This is my first portfolio project on Github
+Here are my list of portfolio projects (In the order of uploaded date)
 
-Technologies used - SQL (CTE, Temp Table)
-Softwares - Microsoft SSMS
-Dataset Location - https://ourworldindata.org/covid-deaths
+1. Data Exploration using Covid Data (Viz Link - https://public.tableau.com/app/profile/ibrahim.badhusha/viz/CovidPortfolioProject_16624806276950/Dashboard1)
+2. Data Cleaning using Nashville Housing Data
 
-Follow me on LinkedIn - https://www.linkedin.com/in/ibrahim-badhusha/
+Follow and Support me on LinkedIn - https://www.linkedin.com/in/ibrahim-badhusha/
